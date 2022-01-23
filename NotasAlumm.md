@@ -12,7 +12,7 @@ Nota = holds the aspects of grades, such as the score, the type of grade and for
 
 Alumno = holds the aspects of students, such as ID, faculty, as for the ptrs, we have next student and a pointer to Nota to reference the struct.
 
-Seccion = holds the aspects of a class, such its number, department and pointer to Alumnos to references the struct. From here we form the global variable seccio610.
+Seccion = holds the aspects of a class, such its number, department and pointer to Alumnos to references the struct. From here we form the global variable seccion610.
 
 
 Functions
