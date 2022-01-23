@@ -5,6 +5,7 @@ use something other than a global variable to handle the ptr. For now I will be 
 Im leaving here the translations:
 
 Structs and enum class
+
 TIPO = serves as a class that holds together the 3 types of exams 
 
 Nota = holds the aspects of grades, such as the score, the type of grade and for the ptr, the next grade.
