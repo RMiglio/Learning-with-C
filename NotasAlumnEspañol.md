@@ -2,6 +2,7 @@
 Aquí está mi toma sobre la tarea de la universidad, crear un codigo que permita registrar alumnos con sus respecticas notas con una sección que los agrupe, a através de estructuras y punteros
 
 Estructuras y clase de enumeración
+
 TIPO = sirve como una clase que mantiene juntos los 3 tipos de exámenes
 
 Nota = contiene los aspectos de las calificaciones, como la puntuación, el tipo de calificación y para el ptr, la siguiente calificación.
