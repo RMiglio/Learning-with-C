@@ -26,3 +26,5 @@ funciones
 - imprimir_NotasIndv: mostrar en consola el promedio de cada alumno
   
 Puede que no sea el código más convincente, pero para aprender estos conceptos, es un logro, espero recibir algunos comentarios sobre cómo mejorar esto.
+
+
