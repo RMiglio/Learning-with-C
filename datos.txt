@@ -1,0 +1,4 @@
+3
+20	14	medio	si
+12	32	grave	no
+15	88	leve	si
